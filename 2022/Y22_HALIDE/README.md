@@ -136,4 +136,4 @@ Add the libraries calls on the linker: ```Halide.lib```, ```jpeg.lib``` and ```l
 <a href="https://github.com/lauramartinho">
  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/65466643/143616931-de8587f0-bfb6-4015-8969-9df896c25247.jpg" width="80px;" alt=""/>
  <br />
- <sub><b>Laura Martinho</b></sub></a> <a href="https://github.com/lauramartinho//" title="Laura Martinho">🦕</a>
+ <sub><b>Antonio Souto Rodriguez</b></sub></a> <a href="https://github.com/AntonioRodriguezUFAM//" title="IMPACTLAB_2022">🦕</a>
