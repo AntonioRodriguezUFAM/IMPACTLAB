@@ -132,6 +132,3 @@ Add the libraries calls on the linker: ```Halide.lib```, ```jpeg.lib``` and ```l
 
 ---
 #### Author
-
-<a href="https://github.com/AntonioRodriguezUFAM">
- <sub><b>Antonio Souto Rodriguez</b></sub></a> <a href="https://github.com/AntonioRodriguezUFAM//" title="IMPACTLAB_2022">🦕</a>
